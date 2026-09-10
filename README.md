@@ -1,9 +1,14 @@
 # Rapidclic
 
-- Rebranding ID: 67fe4550be40d92556c05206
-- User ID: 67fe454abe40d92556c04aa3
-- App name: Rapidclic
-- Product name: Button Sender
+Rapidclic by Rapidclic.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/c3b76d9d-9971-439c-a97c-e9d6da673685.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/c3b76d9d-9971-439c-a97c-e9d6da673685.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/rapidclic/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Rapidclic** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/rapidclic/releases/latest) and reinstall.
